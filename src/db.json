@@ -1,0 +1,92 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "1984",
+      "author": "George Orwell",
+      "category": "Distopya",
+      "publishYear": 1949,
+      "available": true
+    },
+    {
+      "id": "2",
+      "title": "Hayvan Çiftliği",
+      "author": "George Orwell",
+      "category": "Siyasi Alegori",
+      "publishYear": 1945,
+      "available": true
+    },
+    {
+      "id": "3",
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "category": "Bilim Kurgu",
+      "publishYear": 1953,
+      "available": false
+    },
+    {
+      "id": "4",
+      "title": "Dönüşüm",
+      "author": "Franz Kafka",
+      "category": "Varoluş",
+      "publishYear": 1915,
+      "available": true
+    },
+    {
+      "id": "5",
+      "title": "Suç ve Ceza",
+      "author": "Fyodor Dostoyevski",
+      "category": "Psikolojik Roman",
+      "publishYear": 1866,
+      "available": false
+    },
+    {
+      "id": "6",
+      "title": "Sefiller",
+      "author": "Victor Hugo",
+      "category": "Klasik",
+      "publishYear": 1862,
+      "available": true
+    },
+    {
+      "id": "7",
+      "title": "Cesur Yeni Dünya",
+      "author": "Aldous Huxley",
+      "category": "Distopya",
+      "publishYear": 1932,
+      "available": true
+    },
+    {
+      "id": "8",
+      "title": "Simyacı",
+      "author": "Paulo Coelho",
+      "category": "Felsefi Roman",
+      "publishYear": 1988,
+      "available": true
+    },
+    {
+      "id": "9",
+      "title": "Beyaz Diş",
+      "author": "Jack London",
+      "category": "Macera",
+      "publishYear": 1906,
+      "available": false
+    },
+    {
+      "id": "1769375661759",
+      "author": "Kemal Tahir",
+      "title": "Devlet Ana",
+      "category": "Tarih",
+      "publishYear": "1987",
+      "available": true
+    },
+    {
+      "id": 1769376624670,
+      "author": "Reşat Nuri",
+      "title": "Acımak",
+      "category": "Dram",
+      "publishYear": "1926",
+      "available": true
+    }
+  ]
+}
